@@ -89,4 +89,8 @@
 ---
 
 ### 📊 GitHub Stats:
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Kowsalya0303&theme=default)](https://git.io/streak-stats)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kowsalya2929&show_icons=true&locale=en&layout=compact" alt="kowsalya2929" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kowsalya2929&show_icons=true&locale=en" alt="kowsalya2929" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.demolab.com/?user=Kowsalya2929&" alt="kowsalya2929" /></p>
