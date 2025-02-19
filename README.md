@@ -89,8 +89,4 @@
 ---
 
 ### 📊 GitHub Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kowsalya2929&show_icons=true&locale=en&layout=compact" alt="kowsalya2929" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kowsalya2929&show_icons=true&locale=en" alt="kowsalya2929" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kowsalya2929&" alt="kowsalya2929" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Kowsalya0303&theme=default)](https://git.io/streak-stats)
