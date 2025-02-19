@@ -1,5 +1,5 @@
 <p align="center">
-    <img alt="Coding" height="50%" width="50%" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif">
+    <img alt="Coding" height="50%" width="70%" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif">
 </p>
 
 <h1 align="center">Hi 👋, I'm Kowsalya</h1>
@@ -93,4 +93,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kowsalya2929&show_icons=true&locale=en" alt="kowsalya2929" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.demolab.com/?user=Kowsalya2929&" alt="kowsalya2929" /></p>
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kowsalya2929&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
