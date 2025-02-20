@@ -95,5 +95,6 @@
 
 
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kowsalya2929&theme=default&hide_border=true" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kowsalya2929&theme=default&hide_border=false" alt="GitHub Streak" />
 </p>
+
