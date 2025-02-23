@@ -38,6 +38,9 @@
     <a href="https://www.sololearn.com/en/profile/33602410" target="_blank">
         <img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/internetarchive.svg" alt="SoloLearn" height="30" width="40">
     </a>
+    <a href="https://codesignal.com/learn/profile/cm7gdo0rv002d116y336mzo7x" target="_blank">
+        <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/CodeSignal_logo.svg" alt="CodeSignal" height="30" width="40">
+    </a>
 </p>
 
 ---
