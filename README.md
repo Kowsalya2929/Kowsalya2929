@@ -35,6 +35,9 @@
     <a href="https://www.leetcode.com/kowsalya03-03" target="_blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40">
     </a>
+    <a href="https://www.sololearn.com/en/profile/33602410" target="_blank">
+        <img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/internetarchive.svg" alt="SoloLearn" height="30" width="40">
+    </a>
 </p>
 
 ---
