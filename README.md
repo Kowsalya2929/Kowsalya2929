@@ -42,8 +42,9 @@
         <img align="center" src="https://avatars.githubusercontent.com/u/5624255?s=200&v=4" alt="Exercism" height="30" width="40">
     </a>
     <a href="https://codesignal.com/learn/profile/cm7gdo0rv002d116y336mzo7x" target="_blank">
-        <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/CodeSignal_logo.png" alt="CodeSignal" height="30" width="40">
+        <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8CaA9cGwJWyrbXiSwMTz57xNb7RIbBnIb3w&s" alt="CodeSignal" height="100" width="100">
     </a>
+
     
 </p>
 
