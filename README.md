@@ -12,7 +12,7 @@
 </p>
 
 ### 🚀 About Me:
-- 🌱 I’m currently learning **DSA and Backend Development**
+- 🌱 I’m currently learning **DSA**
 - 💬 Ask me about **MERN Stack**
 - 📫 How to reach me: **kowsalyal0303@gmail.com**
 
